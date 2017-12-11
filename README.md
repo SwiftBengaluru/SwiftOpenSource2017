@@ -10,8 +10,11 @@ https://github.com/BKRApps/AR-Vision
 placing objects, detecting planes and place 3D objects in detected planes by Kumar Reddy
 https://github.com/BKRApps/AR-StarterKit
 
+more on AR-Kit https://www.captechconsulting.com/blogs/arkit-fundamentals-in-ios-11.
+
 Sample App - CoreML + SceneKit by Firoz
 https://github.com/firozkhursheed/RealTimeObjectIdentifier
 
 Sample App - ARKit by Firoz
 https://github.com/firozkhursheed/ARBanner
+
