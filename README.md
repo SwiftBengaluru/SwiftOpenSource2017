@@ -18,3 +18,6 @@ https://github.com/firozkhursheed/RealTimeObjectIdentifier
 Sample App - ARKit by Firoz
 https://github.com/firozkhursheed/ARBanner
 
+CoreML Vision and ARKit by Benzi 
+https://github.com/SwiftBengaluru/SwiftOpenSource2017/blob/master/CoreML%20Vision%20and%20ARKit.pdf
+
